@@ -1,4 +1,4 @@
-# Project-2-Exploratory-data-analysis  
+# Project-2-Statistical Analysis Of Data  
 Data Science project work during the Yandex Practicum  
 Project #2
 
